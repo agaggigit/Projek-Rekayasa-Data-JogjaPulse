@@ -4,7 +4,7 @@
 1. Akio Afifian Ahsan (24/.../TK/...)
 2. Bayu Rahmat Kurnia (24/.../TK/...)
 3. Dharu Bintang Mahendratama (24/.../TK/...)
-4. Muhammad Affandi Argya Bagaskara (24/.../TK/...)
+4. Muhammad Affandi Argya Bagaskara (24/538984/TK/59778)
 5. Muhammad Bintang Hidayatullah Marbun (24/.../TK/...)
 6. Nabil Aufa Danaputra (24/.../TK/...)
 7. Raka Bagus Samudra (24/.../TK/...)

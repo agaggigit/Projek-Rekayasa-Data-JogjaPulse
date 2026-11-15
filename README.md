@@ -1,14 +1,14 @@
 # TUGAS REKAYASA DATA
 
 ## Anggota:
-1. Akio Afifian Ahsan (24/.../TK/...)
-2. Bayu Rahmat Kurnia (24/.../TK/...)
-3. Dharu Bintang Mahendratama (24/.../TK/...)
+1. Akio Afifian Ahsan (24/542230/TK/60198)
+2. Bayu Rahmat Kurnia (24/533736/TK/59139)
+3. Dharu Bintang Mahendratama (24/535960/TK/59484)
 4. Muhammad Affandi Argya Bagaskara (24/538984/TK/59778)
-5. Muhammad Bintang Hidayatullah Marbun (24/.../TK/...)
-6. Nabil Aufa Danaputra (24/.../TK/...)
-7. Raka Bagus Samudra (24/.../TK/...)
-8. Razaqi Alkautsar (24/.../TK/...)
+4. Muhammad Bintang Hidayatullah Marbun (24/544012/TK/60468)
+6. Nabil Aufa Danaputra (24/535233/TK/59357)
+7. Raka Bagus Samudra (24/543213/TK/60349)
+8. Razaqi Alkautsar (24/544958/TK/60570)
 
 ## Topik:
 Kecamatan mana yang menjadi 'magnet' di DIY, dan dari mana saja orang-orangnya datang?

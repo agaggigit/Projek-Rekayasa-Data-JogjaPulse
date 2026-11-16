@@ -59,4 +59,4 @@ Analisis utama menggunakan data **Desember 2021 – Februari 2022**, karena kual
 
 ## Tautan
 - Notebook Colab: [link](https://colab.research.google.com/drive/1ija0Y9Tw2S6vnfNpRwZGL4ouFGjN_phE?usp=sharing)
-- Video presentasi: *(menyusul)*
+- Video presentasi: [link](https://drive.google.com/file/d/1h2vX-Dr0cftuWFYkm2_eosjuHNBpn_NB/view?usp=sharing)
